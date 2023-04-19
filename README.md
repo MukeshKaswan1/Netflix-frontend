@@ -1,2 +1,2 @@
 # Technophillia
-Netflix demo page created using front end technology with Ractjs .
+Netflix demo page created using front end technology with Reactjs .
